@@ -1,12 +1,11 @@
+// NOME = ARTHUR CHACON GARCIA SPEDINE
+// RM = 554489
 package org.example;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
-// NOME = ARTHUR CHACON GARCIA SPEDINE
-// RM = 554489
 
 class ApdexTest {
 
