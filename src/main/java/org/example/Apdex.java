@@ -1,7 +1,6 @@
-package org.example;
-
 // NOME = ARTHUR CHACON GARCIA SPEDINE
 // RM = 554489
+package org.example;
 
 public class Apdex {
 
